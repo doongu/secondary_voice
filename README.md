@@ -5,7 +5,7 @@
 <br></br>
 
 <h2> It's very easy so just do it </h2>
-<p align="center"><img src="./gif_for_read-me/proto.gif" width="600" height="500"/></p>
+<p align="center"><img src="./gif_for_read-me/proto.gif" width="600" height="1200"/></p>
  <br></br>
 
 <h2> Scheduling tool : Notion </h2>
