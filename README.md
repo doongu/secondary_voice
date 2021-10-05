@@ -32,7 +32,7 @@ pnu_opensource_hack
 <br></br>
 
 
-<h2> Team Information <a href="https://github.com/doongu/secondary_voice/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/doongu/secondary_voice/"></a></h2>
+<h2> Team Information <a href="https://github.com/doongu/secondary_voice/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/Web_Drawing-chat-consulation_Stones-in-greenhouse"></a></h2>
 
 <!--  아래는 Team INFORMATION 표-->
  
