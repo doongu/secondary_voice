@@ -1,11 +1,6 @@
-# pnu_opensource_hack
-pnu_opensource_hack
-깃헙꾸미기 , 최종보고서 작성 , 최종 zip파일 만들기
-
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=135&section=header&text=&fontSize=90&fontAlignY=30&)
 
-<h1>development_department_study_with_python (dds)</h1>
+<h1>secondary_voice</h1>
 <h6> Welcome to the development department study. The team leader gives assignments every week. If you are confused while doing an assignment, ask your team leader</h6>
 <br></br>
 
