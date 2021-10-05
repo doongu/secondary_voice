@@ -22,7 +22,7 @@
 
 
 ## How to make?
- <p align = "center"><img src="https://img.shields.io/badge/Pytorch-3766AB?style=for-the-badge&logo=Python&logoColor=white/></a> </a>&nbsp <img src="https://img.shields.io/badge/React-3766AB?style=for-the-badge&logo=React&logoColor=white"/></a> </a>&nbsp<img src="https://img.shields.io/badge/Flask-3766AB?style=for-the-badge&logo=Flask&logoColor=white"/></p>
+ <p align = "center"><img src="https://img.shields.io/badge/Pytorch-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a> </a>&nbsp <img src="https://img.shields.io/badge/React-3766AB?style=for-the-badge&logo=React&logoColor=white"/></a> </a>&nbsp<img src="https://img.shields.io/badge/Flask-3766AB?style=for-the-badge&logo=Flask&logoColor=white"/></p>
 
 <br></br>
 
