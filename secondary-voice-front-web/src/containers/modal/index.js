@@ -1,0 +1,3 @@
+export { Info } from "containers/modal/Info";
+// ...
+// export { Other } from "containers/modal/Other"
