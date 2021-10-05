@@ -4,7 +4,7 @@
 <h6> Secondary voice turns your voice into a charming voice.</h6>
 <br></br>
 
-<h2> It's very easy so just do it </h2>
+<h1> It's very easy so just do it </h1>
 <p align="center"><img src="./gif_for_read-me/proto.gif" width="300" height="600"/></p>
  <br></br>
 
