@@ -4,9 +4,10 @@
 <h6> Secondary voice turns your voice into a charming voice.</h6>
 <br></br>
 
-<h2> What kind of study is it? </h2>
- <p align = "center"><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a> </a>&nbsp <img src="https://img.shields.io/badge/Algorithm-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a> </a>&nbsp<img src="https://img.shields.io/badge/Flask-3766AB?style=for-the-badge&logo=Flask&logoColor=white"/></p>
+<h2> It's very easy so just do it </h2>
+
  <br></br>
+
 <h2> Scheduling tool : Notion </h2>
 
 <p align = "center"><img src="https://github.com/doongu/dds_with_python/blob/main/notion_icon.png" width="60" height="50"></p>
@@ -20,9 +21,8 @@
 <br></br>
 
 
-## How to start studying with us?
- 
-- [x] please send mail to must1080@naver.com
+## How to make?
+ <p align = "center"><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a> </a>&nbsp <img src="https://img.shields.io/badge/Algorithm-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a> </a>&nbsp<img src="https://img.shields.io/badge/Flask-3766AB?style=for-the-badge&logo=Flask&logoColor=white"/></p>
 
 <br></br>
 
