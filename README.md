@@ -49,49 +49,23 @@ pnu_opensource_hack
 <tbody>
 <tr>
 <td style="text-align:left">Leader</td>
-<td style="text-align:left">한준규</td>
-<td style="text-align:left">Backend</td>
-<td style="text-align:left">must1080@naver.com</td>
-<td style="text-align:left"><a href="https://github.com/doongu">
-<img src="http://img.shields.io/badge/doongu-655ced?style=social&logo=github" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<td style="text-align:left">조영재</td>
+<td style="text-align:left">AI</td>
+<td style="text-align:left">wo78644@gmail.com</td>
+<td style="text-align:left"><a href="https://github.com/wo7864">
+<img src="http://img.shields.io/badge/wo7864-655ced?style=social&logo=github" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></td> 
 </tr>
 <tr>
 <td style="text-align:left">Team</td>
-<td style="text-align:left">조영재</td>
-<td style="text-align:left">AI, He's gone... </td>
-<td style="text-align:left">wo78644@gmail.com</td>
-<td style="text-align:left"><a href="https://github.com/wo7864">
-<img src="http://img.shields.io/badge/wo7864-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<td style="text-align:left">한준규</td>
+<td style="text-align:left">Service </td>
+<td style="text-align:left">must1080@naver.com</td>
+<td style="text-align:left"><a href="https://github.com/doongu">
+<img src="http://img.shields.io/badge/doongu-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></td>
 </tr>
- <tr>
-<td style="text-align:left">Team</td>
-<td style="text-align:left">권유정</td>
-<td style="text-align:left">미정</td>
-<td style="text-align:left">yoojeongkwon@naver.com</td>
-<td style="text-align:left"><a href="https://github.com/yujeongkwon">
-<img src="http://img.shields.io/badge/yujeongkwon-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></td>
-</tr>
-<tr>
-<td style="text-align:left">Team</td>
-<td style="text-align:left">김명준</td>
-<td style="text-align:left">미정</td>
-<td style="text-align:left">skatks1016@naver.com</td>
-<td style="text-align:left"><a href="https://github.com/kmj111">
-<img src="http://img.shields.io/badge/kmj111-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></td>
-</tr>
- <tr>
-<td style="text-align:left">Team</td>
-<td style="text-align:left">오하람</td>
-<td style="text-align:left">미정</td>
-<td style="text-align:left">5gkfka5@naver.com</td>
-<td style="text-align:left"><a href="https://github.com/Haram0111">
-<img src="http://img.shields.io/badge/Haram0111-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></td>
-</tr>
+
 </tbody>
 </table>
 
